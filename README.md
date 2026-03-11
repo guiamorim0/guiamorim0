@@ -1,15 +1,30 @@
 # Olá, eu sou Guilherme 👋
 
-<p align="left">
-<img src="https://readme-typing-svg.herokuapp.com/?color=0e75b6&size=22&center=false&vCenter=true&width=500&lines=Estudante+de+Engenharia+de+Software+na+FIAP;Focado+em+Back-end+e+APIs;Desenvolvendo+aplicações+web;Sempre+aprendendo+novas+tecnologias" />
-</p>
-
 🎓 Estudante de Engenharia de Software na FIAP  
 💻 Focado em desenvolvimento Back-end, APIs, banco de dados e aplicações web  
 🚀 Desenvolvendo projetos acadêmicos e pessoais para evoluir constantemente como desenvolvedor
 
 ## 🚀 Tecnologias e Ferramentas
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
+
+---
+
+## 💼 Projetos
+
+### 📚 Nox AI
+🔗 https://noxai.pro/
+
+Plataforma educacional voltada para preparação de vestibulares.  
+O projeto tem como objetivo auxiliar estudantes no aprendizado por meio de recursos digitais e ferramentas inteligentes de estudo.
+
+---
+
+### 🛒 Duuke
+🔗 https://duuke.com.br/
+
+Plataforma de **e-commerce** desenvolvida para venda de produtos online, com foco em experiência do usuário, organização de catálogo e estruturação de funcionalidades para comércio digital.
+
+---
 
 ## 📫 Contato
 
