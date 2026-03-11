@@ -8,7 +8,7 @@
 💻 Focado em desenvolvimento Back-end, APIs, banco de dados e aplicações web  
 🚀 Desenvolvendo projetos acadêmicos e pessoais para evoluir constantemente como desenvolvedor
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias e Ferramentas
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
 
 ## 📫 Contato
