@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou Guilherme 👋
 
-<!--
-**guiamorim0/guiamorim0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+💻 Focado em desenvolvimento Back-end, APIs, banco de dados e aplicações web  
+🚀 Desenvolvendo projetos acadêmicos e pessoais para evoluir constantemente como desenvolvedor
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-zanchetti-amorim-1691983b4/)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gui.amorim_/)
