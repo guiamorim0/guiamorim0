@@ -1,5 +1,9 @@
 # Olá, eu sou Guilherme 👋
 
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com/?color=0e75b6&size=22&center=false&vCenter=true&width=500&lines=Estudante+de+Engenharia+de+Software+na+FIAP;Focado+em+Back-end+e+APIs;Desenvolvendo+aplicações+web;Sempre+aprendendo+novas+tecnologias" />
+</p>
+
 🎓 Estudante de Engenharia de Software na FIAP  
 💻 Focado em desenvolvimento Back-end, APIs, banco de dados e aplicações web  
 🚀 Desenvolvendo projetos acadêmicos e pessoais para evoluir constantemente como desenvolvedor
