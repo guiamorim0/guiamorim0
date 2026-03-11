@@ -1,6 +1,6 @@
 # Olá, eu sou Guilherme 👋
 
-🎓 Estudante de Engenharia de Software  
+🎓 Estudante de Engenharia de Software na FIAP  
 💻 Focado em desenvolvimento Back-end, APIs, banco de dados e aplicações web  
 🚀 Desenvolvendo projetos acadêmicos e pessoais para evoluir constantemente como desenvolvedor
 
