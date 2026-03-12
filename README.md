@@ -1,32 +1,32 @@
-# Olá, eu sou Guilherme 👋
+# Hi, I'm Guilherme 👋
 
-🎓 Estudante de Engenharia de Software na FIAP  
-💻 Focado em desenvolvimento Back-end, APIs, banco de dados e aplicações web  
-🚀 Desenvolvendo projetos acadêmicos e pessoais para evoluir constantemente como desenvolvedor
+🎓 Software Engineering student at FIAP  
+💻 Focused on Back-end development, APIs, databases and web applications  
+🚀 Building academic and personal projects to continuously grow as a developer
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Technologies & Tools
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
 
 ---
 
-## 💼 Projetos
+## 💼 Projects
 
 ### 📚 Nox AI
 🔗 https://noxai.pro/
 
-Plataforma educacional voltada para preparação de vestibulares.  
-O projeto tem como objetivo auxiliar estudantes no aprendizado por meio de recursos digitais e ferramentas inteligentes de estudo.
+Educational platform focused on helping students prepare for university entrance exams.  
+The platform provides digital learning resources and intelligent tools designed to improve study efficiency.
 
 ---
 
 ### 🛒 Duuke
 🔗 https://duuke.com.br/
 
-Plataforma de **e-commerce** desenvolvida para venda de produtos online, com foco em experiência do usuário, organização de catálogo e estruturação de funcionalidades para comércio digital.
+E-commerce platform designed for online product sales, focused on user experience, product catalog organization and scalable digital commerce features.
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-zanchetti-amorim-1691983b4/)
 
