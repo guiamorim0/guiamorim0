@@ -34,7 +34,7 @@ E-commerce platform designed for online product sales, focused on user experienc
 ---
 
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=guiamorim0&show_icons=true&theme=default" />
+<img src="https://github-stats-extended.vercel.app/api?username=guiamorim0" />
 
 ---
 
