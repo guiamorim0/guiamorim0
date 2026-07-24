@@ -5,7 +5,7 @@
 🚀 Building academic and personal projects to continuously grow as a developer
 
 ## 🚀 Technologies & Tools
-<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,firebase,gcp,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
 
 ---
 
@@ -14,14 +14,14 @@
 ### 📚 Nox AI
 🔗 https://noxai.pro/
 
-Educational platform focused on helping students prepare for university entrance exams. Back-end built with Node.js, Python integrations, Firebase database, payment API integration and deployed on Google Cloud Run.
+Educational platform focused on helping students prepare for university entrance exams. The platform provides digital learning resources and intelligent tools designed to improve study efficiency.
 
 ---
 
 ### 🛒 Duuke
 🔗 https://duuke.com.br/
 
-E-commerce platform designed for online product sales, focused on user experience, product catalog organization and scalable digital commerce features. Built with JavaScript and Firebase.
+E-commerce platform designed for online product sales, focused on user experience, product catalog organization and scalable digital commerce features.
 
 ---
 
