@@ -1,8 +1,16 @@
 # Hi, I'm Guilherme 👋
-🎓 Software Engineering student at FIAP  
-💻 Focused on Back-end development, APIs, databases and web applications  
-📘 Currently deepening my knowledge in Python (Object-Oriented Programming)  
+
+🎓 Software Engineering student at FIAP
+💻 Focused on Back-end development, APIs, databases and web applications
 🚀 Building academic and personal projects to continuously grow as a developer
+🟢 Open to internship opportunities in software development
+
+---
+
+## 📘 Currently Learning
+- Python — Object-Oriented Programming
+
+---
 
 ## 🚀 Technologies & Tools
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
@@ -25,6 +33,10 @@ E-commerce platform designed for online product sales, focused on user experienc
 
 ---
 
+## 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=guiamorim0&show_icons=true&theme=default" />
+
+---
+
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-zanchetti-amorim-1691983b4/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gui.amorim_/)
