@@ -1,5 +1,4 @@
 # Hi, I'm Guilherme 👋
-
 🎓 Software Engineering student at FIAP
 💻 Focused on Back-end development, APIs, databases and web applications
 🚀 Building academic and personal projects to continuously grow as a developer
@@ -34,7 +33,7 @@ E-commerce platform designed for online product sales, focused on user experienc
 ---
 
 ## 📊 GitHub Stats
-<img src="https://github-stats-extended.vercel.app/api?username=guiamorim0" />
+<img src="https://github-stats-extended.vercel.app/api?username=guiamorim0&theme=dark" />
 
 ---
 
