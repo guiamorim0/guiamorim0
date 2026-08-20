@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 Technologies & Tools
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github" />
 
 ---
 
@@ -25,8 +25,7 @@ Educational platform focused on helping students prepare for university entrance
 
 ---
 
-### 🛒 Duuke
-🔗 https://duuke.com.br/
+### 🛒 Duuke *(completed project)*
 
 E-commerce platform designed for online product sales, focused on user experience, product catalog organization and scalable digital commerce features.
 
