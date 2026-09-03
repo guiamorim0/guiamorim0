@@ -8,15 +8,23 @@
 
 ## 📘 Currently Learning
 - Python — Object-Oriented Programming
+- FastAPI, PostgreSQL and REST API architecture
 
 ---
 
 ## 🚀 Technologies & Tools
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,fastapi,postgres,git,github" />
 
 ---
 
 ## 💼 Projects
+
+### 🏋️ FitTrack
+🔗 https://fittrack-phi-lake.vercel.app
+
+Full-stack workout tracking application, developed from scratch and deployed in production. Back-end built with FastAPI and PostgreSQL, featuring JWT authentication, password hashing, protected routes and RESTful API design. Front-end built in vanilla JavaScript, consuming the API with token-based authentication. Deployed across multiple platforms (Neon, Render and Vercel).
+
+---
 
 ### 📚 Nox AI
 🔗 https://noxai.pro/
