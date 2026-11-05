@@ -1,4 +1,4 @@
-# Guilherme Zanchetti Amorim
+# Guilherme Zanchetti Amorim 👋
 
 Software Engineering student at FIAP, focused on back-end development, APIs, databases and web applications. I build real projects and put them into production.
 
