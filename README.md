@@ -14,7 +14,7 @@
 ---
 
 ## 🚀 Technologies & Tools
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,nodejs,firebase,js,react,html,css,git,github" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,js,react,html,css,git,github" />
 
 ---
 
